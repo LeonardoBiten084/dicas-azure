@@ -134,5 +134,7 @@ Vantagens:
 
 • Escalabilidade e consistência
 
+---
+
 Feito por **Leonardo Bitencourt**
 
